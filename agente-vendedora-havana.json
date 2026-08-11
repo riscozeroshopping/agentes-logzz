@@ -28,5 +28,15 @@
     "imagem_oferta": "<<COLE_A_URL>>",
     "audio_oferta": "<<COLE_A_URL>>",
     "imagem_checkout": "<<COLE_A_URL>>"
+  },
+  "etapas": {
+    "saudação": 105967903,
+    "prova social": 109333280,
+    "valor": 110130148,
+    "fechamento": 110130152,
+    "agendamento concluido": 108976740
+  },
+  "etapa_de_entrada": {
+    "incoming leads": 105966935
   }
 }
